@@ -1,0 +1,5 @@
+Name: Kian Daniel V. Lopena
+Course: BSCSSE
+Year Level: Year 3
+Favorite Programming Language: C++
+Career Goal: Software / Network / AI Engineer
